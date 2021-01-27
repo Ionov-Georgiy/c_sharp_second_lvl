@@ -91,11 +91,11 @@ namespace AsteroidGame.Objects
 
         public override void MoveInSpace()
         {
-            Position.X += Direction.X;
+            position.X += Direction.X;
             if (Position.X < 0)
             {
-                Position.X = ObjectSpace.SpaceSize.Width + ObjectSize.Width;
-                Position.Y = StaticRandom.GetRandom(ObjectSize.Height/2, ObjectSpace.SpaceSize.Height - ObjectSize.Height/2);
+                position.X = ObjectSpace.SpaceSize.Width + ObjectSize.Width;
+                position.Y = StaticRandom.GetRandom(ObjectSize.Height/2, ObjectSpace.SpaceSize.Height - ObjectSize.Height/2);
             }
         }
     }

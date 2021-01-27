@@ -32,6 +32,7 @@ namespace AsteroidGame.Objects
             foregroundObjects = new List<ObjectInSpace>();
             CreateStars();
             CreateAsteroids();
+            CreateEnergyKit();
             CreateSpaceShip();
             ///////////////////////////////////////////
             foregroundObjects.Add(new Bullet(300, this)); //Временная затычка
@@ -68,6 +69,26 @@ namespace AsteroidGame.Objects
                 foregroundObjects.Add(astr);
                 Logger.Log(String.Format("[History] [ObjId:{0}] Объект {1} Position ({2}, {3}) создан.", astr.Id, astr.ToString(), astr.Position.X, astr.Position.Y));
             }
+        }
+
+        internal void ApplyScoreRecorderOnAsteroids(TDelegate<int> RecordScore)
+        {
+            foreach (ObjectInSpace foreObj in foregroundObjects)
+            {
+                if(foreObj is Asteroid astr)
+                {
+                    astr.recordScore = RecordScore;
+                }
+            }
+        }
+
+        private void CreateEnergyKit()
+        {
+            EnergyKit enKit = new EnergyKit(
+                    new Point(StaticRandom.GetRandom(1, SpaceSize.Width), StaticRandom.GetRandom(1, SpaceSize.Height)),
+                    new Point(-StaticRandom.GetRandom(1, 20), 0),
+                    this);
+            foregroundObjects.Add(enKit);
         }
 
         private void CreateSpaceShip()
@@ -197,6 +218,14 @@ namespace AsteroidGame.Objects
                     if(foregroundObject is Asteroid)
                     {
                         temp = new Asteroid(foregroundObject.Rect.Location, foregroundObject.Direction, foregroundObject.Rect.Size.Width, this);
+                    }
+                    else if(foregroundObject is SpaceShip)
+                    {
+                        temp = new SpaceShip(foregroundObject.Rect.Location, foregroundObject.Direction, foregroundObject.Rect.Size, this);
+                    }
+                    else if (foregroundObject is EnergyKit)
+                    {
+                        temp = new EnergyKit(foregroundObject.Rect.Location, foregroundObject.Direction, this);
                     }
                     else
                     {

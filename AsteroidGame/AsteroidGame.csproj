@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Logger.cs" />
+    <Compile Include="Objects\EnergyKit.cs" />
     <Compile Include="Objects\Asteroid.cs" />
     <Compile Include="GameLogic\Game.cs" />
     <Compile Include="Objects\Bullet.cs" />
@@ -58,6 +59,7 @@
     <Compile Include="Objects\ObjectInSpaceEventArgs.cs" />
     <Compile Include="Objects\SpaceShip.cs" />
     <Compile Include="Objects\StaticRandom.cs" />
+    <Compile Include="Objects\StaticTDelegates.cs" />
     <Compile Include="Scenes\PreferencesScene.cs" />
     <Compile Include="Scenes\StartedGameScene.cs" />
     <Compile Include="Scenes\MainMenuScene.cs" />

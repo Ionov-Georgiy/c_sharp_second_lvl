@@ -13,7 +13,8 @@ namespace AsteroidGame.Objects
         private int id;
         public Space ObjectSpace => objectSpace;
         protected Space objectSpace;
-        protected Point Position;
+        public Point Position => position;
+        protected Point position;
         public Point Direction => direction;
         protected Point direction;
         protected Size ObjectSize;
@@ -25,7 +26,7 @@ namespace AsteroidGame.Objects
         {
             id = ObjectIdGenerator.GenerateId();
             this.objectSpace = ObjectSpace;
-            this.Position = Position;
+            this.position = Position;
             this.direction = Direction;
             this.ObjectSize = ObjectSize;
             CheckParams();
@@ -61,8 +62,8 @@ namespace AsteroidGame.Objects
 
         public virtual void MoveInSpace()
         {
-            Position.X += Direction.X;
-            Position.Y += Direction.Y;
+            position.X += Direction.X;
+            position.Y += Direction.Y;
 
             if (Position.X < 0)
                 direction.X *= -1;
@@ -85,7 +86,7 @@ namespace AsteroidGame.Objects
             return false;
         }
 
-        virtual public void DoCollisionConsequences(ICollisionable obj)
+        public virtual void DoCollisionConsequences(ICollisionable obj)
         {
             Point CollisionObjectDirection = obj.Direction;
             if (direction.X > 0 && CollisionObjectDirection.X < 0 || direction.X < 0 && CollisionObjectDirection.X > 0)

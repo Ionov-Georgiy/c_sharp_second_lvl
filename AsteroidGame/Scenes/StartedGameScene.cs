@@ -80,6 +80,7 @@ namespace AsteroidGame.Scenes
                 if (Game.GameOver)
                 {
                     g.DrawString("Game Over!", new Font(FontFamily.GenericSerif, 60, FontStyle.Bold), Brushes.Red, 200, 100);
+                    g.DrawString("Score: " + Game.Score, new Font(FontFamily.GenericSerif, 60, FontStyle.Bold), Brushes.Red, 200, 200);
                     objArr = SceneObject.GetBackgroundObjects();
                 }
                 else

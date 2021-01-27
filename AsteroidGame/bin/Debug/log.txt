@@ -1,1342 +1,364 @@
-﻿[History] [ObjId:1] Объект AsteroidGame.Objects.Star Position (319, 60) создан.
+﻿[History] [ObjId:64] Объект AsteroidGame.Objects.Asteroid Position (800, 295) создан.
 
-[History] [ObjId:2] Объект AsteroidGame.Objects.Star Position (159, 523) создан.
+[History] [ObjId:65] Объект AsteroidGame.Objects.Asteroid Position (800, 525) создан.
 
-[History] [ObjId:3] Объект AsteroidGame.Objects.Star Position (553, 75) создан.
+[History] [ObjId:66] Объект AsteroidGame.Objects.Asteroid Position (800, 204) создан.
 
-[History] [ObjId:4] Объект AsteroidGame.Objects.Star Position (751, 272) создан.
+[History] [ObjId:67] Объект AsteroidGame.Objects.Asteroid Position (800, 515) создан.
 
-[History] [ObjId:5] Объект AsteroidGame.Objects.Star Position (28, 12) создан.
+[History] [ObjId:68] Объект AsteroidGame.Objects.Asteroid Position (800, 56) создан.
 
-[History] [ObjId:6] Объект AsteroidGame.Objects.Star Position (592, 30) создан.
+[History] [ObjId:69] Объект AsteroidGame.Objects.Asteroid Position (800, 68) создан.
 
-[History] [ObjId:7] Объект AsteroidGame.Objects.Star Position (691, 486) создан.
+[History] [ObjId:70] Объект AsteroidGame.Objects.Asteroid Position (800, 357) создан.
 
-[History] [ObjId:8] Объект AsteroidGame.Objects.Star Position (705, 509) создан.
+[History] [ObjId:71] Объект AsteroidGame.Objects.Asteroid Position (800, 349) создан.
 
-[History] [ObjId:9] Объект AsteroidGame.Objects.Star Position (607, 368) создан.
+[History] [ObjId:72] Объект AsteroidGame.Objects.Asteroid Position (800, 386) создан.
 
-[History] [ObjId:10] Объект AsteroidGame.Objects.Star Position (656, 342) создан.
-
-[History] [ObjId:11] Объект AsteroidGame.Objects.Star Position (279, 234) создан.
-
-[History] [ObjId:12] Объект AsteroidGame.Objects.Star Position (304, 433) создан.
-
-[History] [ObjId:13] Объект AsteroidGame.Objects.Star Position (120, 388) создан.
-
-[History] [ObjId:14] Объект AsteroidGame.Objects.Star Position (705, 146) создан.
-
-[History] [ObjId:15] Объект AsteroidGame.Objects.Star Position (72, 59) создан.
-
-[History] [ObjId:16] Объект AsteroidGame.Objects.Star Position (337, 436) создан.
-
-[History] [ObjId:17] Объект AsteroidGame.Objects.Star Position (137, 302) создан.
-
-[History] [ObjId:18] Объект AsteroidGame.Objects.Star Position (380, 323) создан.
-
-[History] [ObjId:19] Объект AsteroidGame.Objects.Star Position (129, 467) создан.
-
-[History] [ObjId:20] Объект AsteroidGame.Objects.Star Position (90, 314) создан.
-
-[History] [ObjId:21] Объект AsteroidGame.Objects.Star Position (462, 354) создан.
-
-[History] [ObjId:22] Объект AsteroidGame.Objects.Star Position (201, 399) создан.
-
-[History] [ObjId:23] Объект AsteroidGame.Objects.Star Position (521, 595) создан.
-
-[History] [ObjId:24] Объект AsteroidGame.Objects.Star Position (516, 360) создан.
-
-[History] [ObjId:25] Объект AsteroidGame.Objects.Star Position (275, 194) создан.
-
-[History] [ObjId:26] Объект AsteroidGame.Objects.Star Position (248, 95) создан.
-
-[History] [ObjId:27] Объект AsteroidGame.Objects.Star Position (717, 430) создан.
-
-[History] [ObjId:28] Объект AsteroidGame.Objects.Star Position (464, 141) создан.
-
-[History] [ObjId:29] Объект AsteroidGame.Objects.Star Position (647, 304) создан.
-
-[History] [ObjId:30] Объект AsteroidGame.Objects.Star Position (135, 353) создан.
-
-[History] [ObjId:31] Объект AsteroidGame.Objects.SpaceShip Position (10, 400) создан.
-
-[History] [ObjId:32] Объект AsteroidGame.Objects.Bullet Position (0, 300) создан.
-
-[History] [ObjId:33] Объект AsteroidGame.Objects.Star Position (209, 181) создан.
-
-[History] [ObjId:34] Объект AsteroidGame.Objects.Star Position (771, 568) создан.
-
-[History] [ObjId:35] Объект AsteroidGame.Objects.Star Position (305, 505) создан.
-
-[History] [ObjId:36] Объект AsteroidGame.Objects.Star Position (585, 591) создан.
-
-[History] [ObjId:37] Объект AsteroidGame.Objects.Star Position (299, 88) создан.
-
-[History] [ObjId:38] Объект AsteroidGame.Objects.Star Position (772, 515) создан.
-
-[History] [ObjId:39] Объект AsteroidGame.Objects.Star Position (544, 134) создан.
-
-[History] [ObjId:40] Объект AsteroidGame.Objects.Star Position (746, 479) создан.
-
-[History] [ObjId:41] Объект AsteroidGame.Objects.Star Position (149, 141) создан.
-
-[History] [ObjId:42] Объект AsteroidGame.Objects.Star Position (264, 536) создан.
-
-[History] [ObjId:43] Объект AsteroidGame.Objects.Star Position (510, 328) создан.
-
-[History] [ObjId:44] Объект AsteroidGame.Objects.Star Position (92, 279) создан.
-
-[History] [ObjId:45] Объект AsteroidGame.Objects.Star Position (86, 136) создан.
-
-[History] [ObjId:46] Объект AsteroidGame.Objects.Star Position (127, 461) создан.
-
-[History] [ObjId:47] Объект AsteroidGame.Objects.Star Position (746, 556) создан.
-
-[History] [ObjId:48] Объект AsteroidGame.Objects.Star Position (111, 281) создан.
-
-[History] [ObjId:49] Объект AsteroidGame.Objects.Star Position (57, 103) создан.
-
-[History] [ObjId:50] Объект AsteroidGame.Objects.Star Position (107, 152) создан.
-
-[History] [ObjId:51] Объект AsteroidGame.Objects.Star Position (375, 37) создан.
-
-[History] [ObjId:52] Объект AsteroidGame.Objects.Star Position (768, 87) создан.
-
-[History] [ObjId:53] Объект AsteroidGame.Objects.Star Position (449, 220) создан.
-
-[History] [ObjId:54] Объект AsteroidGame.Objects.Star Position (569, 537) создан.
-
-[History] [ObjId:55] Объект AsteroidGame.Objects.Star Position (518, 446) создан.
-
-[History] [ObjId:56] Объект AsteroidGame.Objects.Star Position (748, 82) создан.
-
-[History] [ObjId:57] Объект AsteroidGame.Objects.Star Position (724, 569) создан.
-
-[History] [ObjId:58] Объект AsteroidGame.Objects.Star Position (697, 295) создан.
-
-[History] [ObjId:59] Объект AsteroidGame.Objects.Star Position (794, 5) создан.
-
-[History] [ObjId:60] Объект AsteroidGame.Objects.Star Position (563, 429) создан.
-
-[History] [ObjId:61] Объект AsteroidGame.Objects.Star Position (190, 441) создан.
-
-[History] [ObjId:62] Объект AsteroidGame.Objects.Star Position (581, 253) создан.
-
-[History] [ObjId:63] Объект AsteroidGame.Objects.Asteroid Position (800, 479) создан.
-
-[History] [ObjId:64] Объект AsteroidGame.Objects.Asteroid Position (800, 378) создан.
-
-[History] [ObjId:65] Объект AsteroidGame.Objects.Asteroid Position (800, 217) создан.
-
-[History] [ObjId:66] Объект AsteroidGame.Objects.Asteroid Position (800, 218) создан.
-
-[History] [ObjId:67] Объект AsteroidGame.Objects.Asteroid Position (800, 137) создан.
-
-[History] [ObjId:68] Объект AsteroidGame.Objects.Asteroid Position (800, 271) создан.
-
-[History] [ObjId:69] Объект AsteroidGame.Objects.Asteroid Position (800, 256) создан.
-
-[History] [ObjId:70] Объект AsteroidGame.Objects.Asteroid Position (800, 436) создан.
-
-[History] [ObjId:71] Объект AsteroidGame.Objects.Asteroid Position (800, 253) создан.
-
-[History] [ObjId:72] Объект AsteroidGame.Objects.Asteroid Position (800, 109) создан.
-
-[History] [ObjId:73] Объект AsteroidGame.Objects.SpaceShip Position (10, 400) создан.
-
-[History] [ObjId:74] Объект AsteroidGame.Objects.Bullet Position (0, 300) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:75] Объект AsteroidGame.Objects.Asteroid Position (788, 223) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:76] Объект AsteroidGame.Objects.Asteroid Position (784, 256) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:77] Объект AsteroidGame.Objects.Asteroid Position (786, 235) создан.
-
-Астероид 72 столкнулся c объектом 67
-
-[History] [ObjId:78] Объект AsteroidGame.Objects.Asteroid Position (780, 139) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:79] Объект AsteroidGame.Objects.Asteroid Position (776, 262) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:80] Объект AsteroidGame.Objects.Asteroid Position (774, 241) создан.
-
-Астероид 71 столкнулся c объектом 66
-
-[History] [ObjId:81] Объект AsteroidGame.Objects.Asteroid Position (784, 248) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:82] Объект AsteroidGame.Objects.Asteroid Position (760, 262) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:83] Объект AsteroidGame.Objects.Asteroid Position (772, 253) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:84] Объект AsteroidGame.Objects.Asteroid Position (748, 268) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:85] Объект AsteroidGame.Objects.Asteroid Position (764, 259) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:86] Объект AsteroidGame.Objects.Asteroid Position (732, 268) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:87] Объект AsteroidGame.Objects.Asteroid Position (762, 271) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:88] Объект AsteroidGame.Objects.Asteroid Position (720, 274) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:89] Объект AsteroidGame.Objects.Asteroid Position (754, 277) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:90] Объект AsteroidGame.Objects.Asteroid Position (704, 274) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:91] Объект AsteroidGame.Objects.Asteroid Position (752, 289) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:92] Объект AsteroidGame.Objects.Asteroid Position (692, 280) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:93] Объект AsteroidGame.Objects.Asteroid Position (744, 295) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:94] Объект AsteroidGame.Objects.Asteroid Position (676, 280) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:95] Объект AsteroidGame.Objects.Asteroid Position (742, 307) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:96] Объект AsteroidGame.Objects.Asteroid Position (664, 286) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:97] Объект AsteroidGame.Objects.Asteroid Position (734, 313) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:98] Объект AsteroidGame.Objects.Asteroid Position (648, 286) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:99] Объект AsteroidGame.Objects.Asteroid Position (732, 325) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:100] Объект AsteroidGame.Objects.Asteroid Position (636, 292) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:101] Объект AsteroidGame.Objects.Asteroid Position (724, 331) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:102] Объект AsteroidGame.Objects.Asteroid Position (620, 292) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:103] Объект AsteroidGame.Objects.Asteroid Position (722, 343) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:104] Объект AsteroidGame.Objects.Asteroid Position (608, 298) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:105] Объект AsteroidGame.Objects.Asteroid Position (714, 349) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:106] Объект AsteroidGame.Objects.Asteroid Position (592, 298) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:107] Объект AsteroidGame.Objects.Asteroid Position (712, 361) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:108] Объект AsteroidGame.Objects.Asteroid Position (580, 304) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:109] Объект AsteroidGame.Objects.Asteroid Position (704, 367) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:110] Объект AsteroidGame.Objects.Asteroid Position (564, 304) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:111] Объект AsteroidGame.Objects.Asteroid Position (702, 379) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:112] Объект AsteroidGame.Objects.Asteroid Position (552, 310) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:113] Объект AsteroidGame.Objects.Asteroid Position (694, 385) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:114] Объект AsteroidGame.Objects.Asteroid Position (536, 310) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:115] Объект AsteroidGame.Objects.Asteroid Position (692, 397) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:116] Объект AsteroidGame.Objects.Asteroid Position (524, 316) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:117] Объект AsteroidGame.Objects.Asteroid Position (684, 403) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:118] Объект AsteroidGame.Objects.Asteroid Position (508, 316) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:119] Объект AsteroidGame.Objects.Asteroid Position (682, 415) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:120] Объект AsteroidGame.Objects.Asteroid Position (496, 322) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:121] Объект AsteroidGame.Objects.Asteroid Position (674, 421) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:122] Объект AsteroidGame.Objects.Asteroid Position (480, 322) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:123] Объект AsteroidGame.Objects.Asteroid Position (672, 433) создан.
-
-Астероид 70 столкнулся c объектом 65
-
-[History] [ObjId:124] Объект AsteroidGame.Objects.Asteroid Position (672, 433) создан.
-
-Астероид 70 столкнулся c объектом 66
-
-[History] [ObjId:125] Объект AsteroidGame.Objects.Asteroid Position (676, 434) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:126] Объект AsteroidGame.Objects.Asteroid Position (468, 328) создан.
-
-Астероид 67 столкнулся c объектом 63
-
-[History] [ObjId:127] Объект AsteroidGame.Objects.Asteroid Position (775, 303) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:128] Объект AsteroidGame.Objects.Asteroid Position (667, 446) создан.
-
-Астероид 70 столкнулся c объектом 66
-
-[History] [ObjId:129] Объект AsteroidGame.Objects.Asteroid Position (668, 440) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:130] Объект AsteroidGame.Objects.Asteroid Position (452, 328) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:131] Объект AsteroidGame.Objects.Asteroid Position (659, 452) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:132] Объект AsteroidGame.Objects.Asteroid Position (440, 334) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:133] Объект AsteroidGame.Objects.Asteroid Position (657, 464) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:134] Объект AsteroidGame.Objects.Asteroid Position (424, 334) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:135] Объект AsteroidGame.Objects.Asteroid Position (649, 470) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:136] Объект AsteroidGame.Objects.Asteroid Position (412, 340) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:137] Объект AsteroidGame.Objects.Asteroid Position (647, 482) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:138] Объект AsteroidGame.Objects.Asteroid Position (396, 340) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:139] Объект AsteroidGame.Objects.Asteroid Position (639, 488) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:140] Объект AsteroidGame.Objects.Asteroid Position (384, 346) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:141] Объект AsteroidGame.Objects.Asteroid Position (637, 500) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:142] Объект AsteroidGame.Objects.Asteroid Position (368, 346) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:143] Объект AsteroidGame.Objects.Asteroid Position (629, 506) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:144] Объект AsteroidGame.Objects.Asteroid Position (356, 352) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:145] Объект AsteroidGame.Objects.Asteroid Position (627, 518) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:146] Объект AsteroidGame.Objects.Asteroid Position (340, 352) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:147] Объект AsteroidGame.Objects.Asteroid Position (619, 524) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:148] Объект AsteroidGame.Objects.Asteroid Position (328, 358) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:149] Объект AsteroidGame.Objects.Asteroid Position (617, 536) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:150] Объект AsteroidGame.Objects.Asteroid Position (312, 358) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:151] Объект AsteroidGame.Objects.Asteroid Position (609, 542) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:152] Объект AsteroidGame.Objects.Asteroid Position (300, 364) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:153] Объект AsteroidGame.Objects.Asteroid Position (607, 554) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:154] Объект AsteroidGame.Objects.Asteroid Position (284, 364) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:155] Объект AsteroidGame.Objects.Asteroid Position (599, 560) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:156] Объект AsteroidGame.Objects.Asteroid Position (272, 370) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:157] Объект AsteroidGame.Objects.Asteroid Position (410, 170) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:158] Объект AsteroidGame.Objects.Asteroid Position (597, 572) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:159] Объект AsteroidGame.Objects.Asteroid Position (256, 370) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:160] Объект AsteroidGame.Objects.Asteroid Position (400, 169) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:161] Объект AsteroidGame.Objects.Asteroid Position (589, 578) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:162] Объект AsteroidGame.Objects.Asteroid Position (244, 376) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:163] Объект AsteroidGame.Objects.Asteroid Position (587, 590) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:164] Объект AsteroidGame.Objects.Asteroid Position (228, 376) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:165] Объект AsteroidGame.Objects.Asteroid Position (579, 584) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:166] Объект AsteroidGame.Objects.Asteroid Position (216, 382) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:167] Объект AsteroidGame.Objects.Asteroid Position (577, 572) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:168] Объект AsteroidGame.Objects.Asteroid Position (200, 382) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:169] Объект AsteroidGame.Objects.Asteroid Position (569, 566) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:170] Объект AsteroidGame.Objects.Asteroid Position (188, 388) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:171] Объект AsteroidGame.Objects.Asteroid Position (567, 554) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:172] Объект AsteroidGame.Objects.Asteroid Position (172, 388) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:173] Объект AsteroidGame.Objects.Asteroid Position (559, 548) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:174] Объект AsteroidGame.Objects.Asteroid Position (160, 394) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:175] Объект AsteroidGame.Objects.Asteroid Position (557, 536) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:176] Объект AsteroidGame.Objects.Asteroid Position (144, 394) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:177] Объект AsteroidGame.Objects.Asteroid Position (549, 530) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:178] Объект AsteroidGame.Objects.Asteroid Position (132, 400) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:179] Объект AsteroidGame.Objects.Asteroid Position (547, 518) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:180] Объект AsteroidGame.Objects.Asteroid Position (116, 400) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:181] Объект AsteroidGame.Objects.Asteroid Position (539, 512) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:182] Объект AsteroidGame.Objects.Asteroid Position (104, 406) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:183] Объект AsteroidGame.Objects.Asteroid Position (537, 500) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:184] Объект AsteroidGame.Objects.Asteroid Position (88, 406) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:185] Объект AsteroidGame.Objects.Asteroid Position (529, 494) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:186] Объект AsteroidGame.Objects.Asteroid Position (76, 412) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:187] Объект AsteroidGame.Objects.Asteroid Position (527, 482) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:188] Объект AsteroidGame.Objects.Asteroid Position (60, 412) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:189] Объект AsteroidGame.Objects.Asteroid Position (519, 476) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:190] Объект AsteroidGame.Objects.Asteroid Position (48, 418) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:191] Объект AsteroidGame.Objects.Asteroid Position (517, 464) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:192] Объект AsteroidGame.Objects.Asteroid Position (32, 418) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:193] Объект AsteroidGame.Objects.Asteroid Position (509, 458) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:194] Объект AsteroidGame.Objects.Asteroid Position (20, 424) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:195] Объект AsteroidGame.Objects.Asteroid Position (507, 446) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:196] Объект AsteroidGame.Objects.Asteroid Position (4, 424) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:197] Объект AsteroidGame.Objects.Asteroid Position (499, 440) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:198] Объект AsteroidGame.Objects.Asteroid Position (-8, 430) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:199] Объект AsteroidGame.Objects.Asteroid Position (497, 428) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:200] Объект AsteroidGame.Objects.Asteroid Position (8, 430) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:201] Объект AsteroidGame.Objects.Asteroid Position (489, 422) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:202] Объект AsteroidGame.Objects.Asteroid Position (20, 436) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:203] Объект AsteroidGame.Objects.Asteroid Position (190, 185) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:204] Объект AsteroidGame.Objects.Asteroid Position (487, 410) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:205] Объект AsteroidGame.Objects.Asteroid Position (36, 436) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:206] Объект AsteroidGame.Objects.Asteroid Position (479, 404) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:207] Объект AsteroidGame.Objects.Asteroid Position (48, 442) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:208] Объект AsteroidGame.Objects.Asteroid Position (477, 392) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:209] Объект AsteroidGame.Objects.Asteroid Position (64, 442) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:210] Объект AsteroidGame.Objects.Asteroid Position (469, 386) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:211] Объект AsteroidGame.Objects.Asteroid Position (76, 448) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:212] Объект AsteroidGame.Objects.Asteroid Position (467, 374) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:213] Объект AsteroidGame.Objects.Asteroid Position (92, 448) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:214] Объект AsteroidGame.Objects.Asteroid Position (459, 368) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:215] Объект AsteroidGame.Objects.Asteroid Position (104, 454) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:216] Объект AsteroidGame.Objects.Asteroid Position (457, 356) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:217] Объект AsteroidGame.Objects.Asteroid Position (120, 454) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:218] Объект AsteroidGame.Objects.Asteroid Position (449, 350) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:219] Объект AsteroidGame.Objects.Asteroid Position (132, 460) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:220] Объект AsteroidGame.Objects.Asteroid Position (447, 338) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:221] Объект AsteroidGame.Objects.Asteroid Position (148, 460) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:222] Объект AsteroidGame.Objects.Asteroid Position (439, 332) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:223] Объект AsteroidGame.Objects.Asteroid Position (160, 466) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:224] Объект AsteroidGame.Objects.Asteroid Position (437, 320) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:225] Объект AsteroidGame.Objects.Asteroid Position (176, 466) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:226] Объект AsteroidGame.Objects.Asteroid Position (429, 314) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:227] Объект AsteroidGame.Objects.Asteroid Position (188, 472) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:228] Объект AsteroidGame.Objects.Asteroid Position (427, 302) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:229] Объект AsteroidGame.Objects.Asteroid Position (204, 472) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:230] Объект AsteroidGame.Objects.Asteroid Position (419, 296) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:231] Объект AsteroidGame.Objects.Asteroid Position (216, 478) создан.
-
-Астероид 67 столкнулся c объектом 63
-
-[History] [ObjId:232] Объект AsteroidGame.Objects.Asteroid Position (725, 79) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:233] Объект AsteroidGame.Objects.Asteroid Position (417, 284) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:234] Объект AsteroidGame.Objects.Asteroid Position (232, 478) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:235] Объект AsteroidGame.Objects.Asteroid Position (409, 278) создан.
-
-Астероид 70 столкнулся c объектом 66
-
-[History] [ObjId:236] Объект AsteroidGame.Objects.Asteroid Position (416, 266) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:237] Объект AsteroidGame.Objects.Asteroid Position (244, 484) создан.
-
-Астероид 66 столкнулся c объектом 65
-
-[History] [ObjId:238] Объект AsteroidGame.Objects.Asteroid Position (407, 266) создан.
-
-Астероид 70 столкнулся c объектом 65
-
-[History] [ObjId:239] Объект AsteroidGame.Objects.Asteroid Position (407, 266) создан.
-
-Астероид 70 столкнулся c объектом 66
-
-[History] [ObjId:240] Объект AsteroidGame.Objects.Asteroid Position (411, 253) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:241] Объект AsteroidGame.Objects.Asteroid Position (260, 484) создан.
-
-Астероид 70 столкнулся c объектом 65
-
-[History] [ObjId:242] Объект AsteroidGame.Objects.Asteroid Position (399, 260) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:243] Объект AsteroidGame.Objects.Asteroid Position (272, 490) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:244] Объект AsteroidGame.Objects.Asteroid Position (288, 490) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:245] Объект AsteroidGame.Objects.Asteroid Position (300, 496) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:246] Объект AsteroidGame.Objects.Asteroid Position (316, 496) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:247] Объект AsteroidGame.Objects.Asteroid Position (328, 502) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:248] Объект AsteroidGame.Objects.Asteroid Position (344, 502) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:249] Объект AsteroidGame.Objects.Asteroid Position (356, 508) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:250] Объект AsteroidGame.Objects.Asteroid Position (372, 508) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:251] Объект AsteroidGame.Objects.Asteroid Position (384, 514) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:252] Объект AsteroidGame.Objects.Asteroid Position (400, 514) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:253] Объект AsteroidGame.Objects.Asteroid Position (412, 520) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:254] Объект AsteroidGame.Objects.Asteroid Position (428, 520) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:255] Объект AsteroidGame.Objects.Asteroid Position (440, 526) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:256] Объект AsteroidGame.Objects.Asteroid Position (456, 526) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:257] Объект AsteroidGame.Objects.Asteroid Position (468, 532) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:258] Объект AsteroidGame.Objects.Asteroid Position (484, 532) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:259] Объект AsteroidGame.Objects.Asteroid Position (496, 538) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:260] Объект AsteroidGame.Objects.Asteroid Position (512, 538) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:261] Объект AsteroidGame.Objects.Asteroid Position (524, 544) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:262] Объект AsteroidGame.Objects.Asteroid Position (540, 544) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:263] Объект AsteroidGame.Objects.Asteroid Position (552, 550) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:264] Объект AsteroidGame.Objects.Asteroid Position (568, 550) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:265] Объект AsteroidGame.Objects.Asteroid Position (580, 556) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:266] Объект AsteroidGame.Objects.Asteroid Position (596, 556) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:267] Объект AsteroidGame.Objects.Asteroid Position (608, 562) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:268] Объект AsteroidGame.Objects.Asteroid Position (624, 562) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:269] Объект AsteroidGame.Objects.Asteroid Position (636, 568) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:270] Объект AsteroidGame.Objects.Asteroid Position (652, 568) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:271] Объект AsteroidGame.Objects.Asteroid Position (240, 230) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:272] Объект AsteroidGame.Objects.Asteroid Position (664, 574) создан.
-
-Астероид 69 столкнулся c объектом 63
-
-[History] [ObjId:273] Объект AsteroidGame.Objects.Asteroid Position (693, 591) создан.
-
-Астероид 71 столкнулся c объектом 63
-
-[History] [ObjId:274] Объект AsteroidGame.Objects.Asteroid Position (693, 591) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:275] Объект AsteroidGame.Objects.Asteroid Position (250, 246) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:276] Объект AsteroidGame.Objects.Asteroid Position (680, 574) создан.
-
-Астероид 69 столкнулся c объектом 63
-
-[History] [ObjId:277] Объект AsteroidGame.Objects.Asteroid Position (681, 585) создан.
-
-Астероид 71 столкнулся c объектом 63
-
-[History] [ObjId:278] Объект AsteroidGame.Objects.Asteroid Position (681, 585) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:279] Объект AsteroidGame.Objects.Asteroid Position (260, 247) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:280] Объект AsteroidGame.Objects.Asteroid Position (696, 574) создан.
-
-Астероид 71 столкнулся c объектом 63
-
-[History] [ObjId:281] Объект AsteroidGame.Objects.Asteroid Position (680, 569) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:282] Объект AsteroidGame.Objects.Asteroid Position (712, 574) создан.
-
-Астероид 72 столкнулся c объектом 65
-
-[History] [ObjId:283] Объект AsteroidGame.Objects.Asteroid Position (323, 212) создан.
-
-[History] [ObjId:284] Объект AsteroidGame.Objects.Asteroid Position (26, 396) создан.
-
-[History] [ObjId:285] Объект AsteroidGame.Objects.Asteroid Position (21, 383) создан.
-
-Астероид 65 столкнулся c объектом 63
-
-[History] [ObjId:286] Объект AsteroidGame.Objects.Asteroid Position (80, 269) создан.
-
-Астероид 66 столкнулся c объектом 63
-
-[History] [ObjId:287] Объект AsteroidGame.Objects.Asteroid Position (30, 264) создан.
-
-Астероид 66 столкнулся c объектом 63
-
-[History] [ObjId:288] Объект AsteroidGame.Objects.Asteroid Position (25, 251) создан.
-
-Астероид 66 столкнулся c объектом 63
-
-[History] [ObjId:289] Объект AsteroidGame.Objects.Asteroid Position (15, 250) создан.
-
-[History] [ObjId:290] Объект AsteroidGame.Objects.Asteroid Position (570, 295) создан.
-
-[History] [ObjId:291] Объект AsteroidGame.Objects.Asteroid Position (592, 283) создан.
-
-Астероид 72 столкнулся c объектом 65
-
-[History] [ObjId:292] Объект AsteroidGame.Objects.Asteroid Position (489, 453) создан.
-
-Астероид 72 столкнулся c объектом 65
-
-[History] [ObjId:293] Объект AsteroidGame.Objects.Asteroid Position (491, 465) создан.
-
-Астероид 65 столкнулся c объектом 64
-
-[History] [ObjId:294] Объект AsteroidGame.Objects.Asteroid Position (556, 488) создан.
-
-Астероид 65 столкнулся c объектом 64
-
-[History] [ObjId:295] Объект AsteroidGame.Objects.Asteroid Position (544, 494) создан.
-
-Астероид 71 столкнулся c объектом 68
-
-[History] [ObjId:296] Объект AsteroidGame.Objects.Asteroid Position (672, 580) создан.
-
-Астероид 71 столкнулся c объектом 68
-
-[History] [ObjId:297] Объект AsteroidGame.Objects.Asteroid Position (656, 580) создан.
-
-Астероид 71 столкнулся c объектом 65
-
-[History] [ObjId:298] Объект AsteroidGame.Objects.Asteroid Position (687, 564) создан.
-
-Астероид 71 столкнулся c объектом 65
-
-[History] [ObjId:299] Объект AsteroidGame.Objects.Asteroid Position (703, 564) создан.
-
-Астероид 71 столкнулся c объектом 65
-
-[History] [ObjId:300] Объект AsteroidGame.Objects.Asteroid Position (715, 558) создан.
-
-Астероид 71 столкнулся c объектом 65
-
-[History] [ObjId:301] Объект AsteroidGame.Objects.Asteroid Position (731, 558) создан.
-
-Астероид 71 столкнулся c объектом 65
-
-[History] [ObjId:302] Объект AsteroidGame.Objects.Asteroid Position (743, 552) создан.
-
-Астероид 71 столкнулся c объектом 65
-
-[History] [ObjId:303] Объект AsteroidGame.Objects.Asteroid Position (759, 552) создан.
-
-Астероид 71 столкнулся c объектом 65
-
-[History] [ObjId:304] Объект AsteroidGame.Objects.Asteroid Position (771, 546) создан.
-
-Астероид 71 столкнулся c объектом 65
-
-[History] [ObjId:305] Объект AsteroidGame.Objects.Asteroid Position (787, 546) создан.
-
-Астероид 67 столкнулся c объектом 66
-
-[History] [ObjId:306] Объект AsteroidGame.Objects.Asteroid Position (561, 199) создан.
-
-[History] [ObjId:307] Объект AsteroidGame.Objects.Asteroid Position (726, 286) создан.
-
-Астероид 72 столкнулся c объектом 66
-
-[History] [ObjId:308] Объект AsteroidGame.Objects.Asteroid Position (577, 87) создан.
-
-Астероид 72 столкнулся c объектом 66
-
-[History] [ObjId:309] Объект AsteroidGame.Objects.Asteroid Position (579, 75) создан.
-
-[History] [ObjId:310] Объект AsteroidGame.Objects.Asteroid Position (20, 405) создан.
+[History] [ObjId:73] Объект AsteroidGame.Objects.Asteroid Position (800, 397) создан.
 
 Астероид 67 столкнулся c объектом 65
 
-[History] [ObjId:311] Объект AsteroidGame.Objects.Asteroid Position (31, 168) создан.
-
-Астероид 67 столкнулся c объектом 65
-
-[History] [ObjId:312] Объект AsteroidGame.Objects.Asteroid Position (21, 167) создан.
-
-Астероид 66 столкнулся c объектом 63
-
-[History] [ObjId:313] Объект AsteroidGame.Objects.Asteroid Position (655, 406) создан.
-
-Астероид 71 столкнулся c объектом 66
-
-[History] [ObjId:314] Объект AsteroidGame.Objects.Asteroid Position (690, 542) создан.
-
-Астероид 72 столкнулся c объектом 69
-
-[History] [ObjId:315] Объект AsteroidGame.Objects.Asteroid Position (742, 119) создан.
-
-Астероид 67 столкнулся c объектом 65
-
-[History] [ObjId:316] Объект AsteroidGame.Objects.Asteroid Position (429, 95) создан.
-
-Астероид 67 столкнулся c объектом 65
-
-[History] [ObjId:317] Объект AsteroidGame.Objects.Asteroid Position (439, 96) создан.
-
-Астероид 67 столкнулся c объектом 65
-
-[History] [ObjId:318] Объект AsteroidGame.Objects.Asteroid Position (451, 102) создан.
-
-Астероид 67 столкнулся c объектом 65
-
-[History] [ObjId:319] Объект AsteroidGame.Objects.Asteroid Position (461, 103) создан.
-
-Астероид 67 столкнулся c объектом 65
-
-[History] [ObjId:320] Объект AsteroidGame.Objects.Asteroid Position (473, 109) создан.
-
-Астероид 66 столкнулся c объектом 63
-
-[History] [ObjId:321] Объект AsteroidGame.Objects.Asteroid Position (676, 553) создан.
-
-Астероид 67 столкнулся c объектом 65
-
-[History] [ObjId:322] Объект AsteroidGame.Objects.Asteroid Position (483, 110) создан.
-
-Астероид 66 столкнулся c объектом 63
-
-[History] [ObjId:323] Объект AsteroidGame.Objects.Asteroid Position (692, 553) создан.
-
-Астероид 72 столкнулся c объектом 67
-
-[History] [ObjId:324] Объект AsteroidGame.Objects.Asteroid Position (541, 85) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:325] Объект AsteroidGame.Objects.Asteroid Position (776, 323) создан.
-
-Астероид 71 столкнулся c объектом 69
-
-[History] [ObjId:326] Объект AsteroidGame.Objects.Asteroid Position (781, 336) создан.
-
-Астероид 71 столкнулся c объектом 65
-
-[History] [ObjId:327] Объект AsteroidGame.Objects.Asteroid Position (711, 224) создан.
-
-Астероид 67 столкнулся c объектом 64
-
-[History] [ObjId:328] Объект AsteroidGame.Objects.Asteroid Position (432, 341) создан.
-
-[History] [ObjId:329] Объект AsteroidGame.Objects.Asteroid Position (325, 303) создан.
-
-Астероид 70 столкнулся c объектом 69
-
-[History] [ObjId:330] Объект AsteroidGame.Objects.Asteroid Position (675, 204) создан.
-
-Астероид 70 столкнулся c объектом 69
-
-[History] [ObjId:331] Объект AsteroidGame.Objects.Asteroid Position (669, 202) создан.
-
-Астероид 70 столкнулся c объектом 69
-
-[History] [ObjId:332] Объект AsteroidGame.Objects.Asteroid Position (667, 190) создан.
-
-Астероид 72 столкнулся c объектом 71
-
-[History] [ObjId:333] Объект AsteroidGame.Objects.Asteroid Position (105, 131) создан.
-
-Астероид 72 столкнулся c объектом 71
-
-[History] [ObjId:334] Объект AsteroidGame.Objects.Asteroid Position (95, 132) создан.
-
-Астероид 69 столкнулся c объектом 65
-
-[History] [ObjId:335] Объект AsteroidGame.Objects.Asteroid Position (456, 107) создан.
-
-[History] [ObjId:336] Объект AsteroidGame.Objects.Asteroid Position (510, 296) создан.
-
-Астероид 69 столкнулся c объектом 65
-
-[History] [ObjId:337] Объект AsteroidGame.Objects.Asteroid Position (450, 109) создан.
-
-Астероид 69 столкнулся c объектом 65
-
-[History] [ObjId:338] Объект AsteroidGame.Objects.Asteroid Position (445, 122) создан.
-
-[History] [ObjId:339] Объект AsteroidGame.Objects.Asteroid Position (546, 304) создан.
-
-[History] [ObjId:340] Объект AsteroidGame.Objects.Asteroid Position (565, 302) создан.
-
-Астероид 69 столкнулся c объектом 67
-
-[History] [ObjId:341] Объект AsteroidGame.Objects.Asteroid Position (290, 375) создан.
-
-[History] [ObjId:342] Объект AsteroidGame.Objects.Asteroid Position (650, 296) создан.
-
-[History] [ObjId:343] Объект AsteroidGame.Objects.Asteroid Position (700, 283) создан.
-
-[History] [ObjId:344] Объект AsteroidGame.Objects.Asteroid Position (702, 290) создан.
-
-Астероид 68 столкнулся c объектом 66
-
-[History] [ObjId:345] Объект AsteroidGame.Objects.Asteroid Position (481, 549) создан.
-
-Астероид 69 столкнулся c объектом 64
-
-[History] [ObjId:346] Объект AsteroidGame.Objects.Asteroid Position (530, 483) создан.
-
-[History] [ObjId:347] Объект AsteroidGame.Objects.Asteroid Position (78, 281) создан.
-
-[History] [ObjId:348] Объект AsteroidGame.Objects.Asteroid Position (105, 284) создан.
+Астероид 69 столкнулся c объектом 68
 
 Астероид 71 столкнулся c объектом 70
 
-[History] [ObjId:349] Объект AsteroidGame.Objects.Asteroid Position (101, 159) создан.
+Астероид 73 столкнулся c объектом 72
 
-[History] [ObjId:350] Объект AsteroidGame.Objects.Asteroid Position (137, 285) создан.
+Астероид 67 столкнулся c объектом 65
 
-[History] [ObjId:351] Объект AsteroidGame.Objects.Asteroid Position (134, 283) создан.
+Астероид 69 столкнулся c объектом 68
 
-Астероид 70 столкнулся c объектом 68
+Астероид 71 столкнулся c объектом 70
 
-[History] [ObjId:352] Объект AsteroidGame.Objects.Asteroid Position (770, 552) создан.
+Астероид 73 столкнулся c объектом 72
 
-Астероид 64 столкнулся c объектом 63
+Астероид 67 столкнулся c объектом 65
 
-[History] [ObjId:353] Объект AsteroidGame.Objects.Asteroid Position (599, 182) создан.
+Астероид 69 столкнулся c объектом 68
 
-Астероид 64 столкнулся c объектом 63
+Астероид 71 столкнулся c объектом 70
 
-[History] [ObjId:354] Объект AsteroidGame.Objects.Asteroid Position (585, 188) создан.
+Астероид 73 столкнулся c объектом 72
 
-[History] [ObjId:355] Объект AsteroidGame.Objects.Asteroid Position (237, 304) создан.
+Астероид 67 столкнулся c объектом 65
 
-Астероид 68 столкнулся c объектом 64
+Астероид 69 столкнулся c объектом 68
 
-[History] [ObjId:356] Объект AsteroidGame.Objects.Asteroid Position (727, 140) создан.
+Астероид 71 столкнулся c объектом 70
 
-Астероид 68 столкнулся c объектом 64
+Астероид 73 столкнулся c объектом 72
 
-[History] [ObjId:357] Объект AsteroidGame.Objects.Asteroid Position (728, 123) создан.
+Астероид 67 столкнулся c объектом 65
 
-Астероид 68 столкнулся c объектом 64
+Астероид 69 столкнулся c объектом 68
 
-[History] [ObjId:358] Объект AsteroidGame.Objects.Asteroid Position (742, 117) создан.
+Астероид 71 столкнулся c объектом 70
 
-Астероид 72 столкнулся c объектом 70
+Астероид 73 столкнулся c объектом 72
 
-[History] [ObjId:359] Объект AsteroidGame.Objects.Asteroid Position (89, 561) создан.
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 72
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 72
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 72
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 72
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 72
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 72
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 72
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 72
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 72
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 72
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 71
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 70
+
+Астероид 73 столкнулся c объектом 71
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 72 столкнулся c объектом 69
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 72 столкнулся c объектом 68
+
+Астероид 72 столкнулся c объектом 69
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 72 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 69
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 71 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 72 столкнулся c объектом 71
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 69 столкнулся c объектом 68
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 70 столкнулся c объектом 66
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 67 столкнулся c объектом 65
+
+Астероид 73 столкнулся c объектом 68
+
+Астероид 70 столкнулся c объектом 64
 
 Астероид 69 столкнулся c объектом 67
-
-[History] [ObjId:360] Объект AsteroidGame.Objects.Asteroid Position (324, 493) создан.
-
-Астероид 71 столкнулся c объектом 64
-
-[History] [ObjId:361] Объект AsteroidGame.Objects.Asteroid Position (772, 423) создан.
-
-Астероид 67 столкнулся c объектом 63
-
-[History] [ObjId:362] Объект AsteroidGame.Objects.Asteroid Position (535, 538) создан.
-
-Астероид 67 столкнулся c объектом 63
-
-[History] [ObjId:363] Объект AsteroidGame.Objects.Asteroid Position (522, 542) создан.
-
-Астероид 67 столкнулся c объектом 63
-
-[History] [ObjId:364] Объект AsteroidGame.Objects.Asteroid Position (521, 549) создан.
-
-Астероид 72 столкнулся c объектом 63
-
-[History] [ObjId:365] Объект AsteroidGame.Objects.Asteroid Position (508, 553) создан.
-
-Астероид 72 столкнулся c объектом 67
-
-[History] [ObjId:366] Объект AsteroidGame.Objects.Asteroid Position (536, 585) создан.
-
-Астероид 70 столкнулся c объектом 63
-
-[History] [ObjId:367] Объект AsteroidGame.Objects.Asteroid Position (428, 553) создан.
-
-Астероид 70 столкнулся c объектом 63
-
-[History] [ObjId:368] Объект AsteroidGame.Objects.Asteroid Position (411, 552) создан.
-
-Астероид 67 столкнулся c объектом 65
-
-[History] [ObjId:369] Объект AsteroidGame.Objects.Asteroid Position (619, 576) создан.
-
-Астероид 67 столкнулся c объектом 65
-
-[History] [ObjId:370] Объект AsteroidGame.Objects.Asteroid Position (606, 572) создан.
-
-Астероид 67 столкнулся c объектом 64
-
-[History] [ObjId:371] Объект AsteroidGame.Objects.Asteroid Position (646, 549) создан.
-
-Астероид 67 столкнулся c объектом 64
-
-[History] [ObjId:372] Объект AsteroidGame.Objects.Asteroid Position (633, 545) создан.
-
-Астероид 70 столкнулся c объектом 65
-
-[History] [ObjId:373] Объект AsteroidGame.Objects.Asteroid Position (570, 560) создан.
-
-Астероид 70 столкнулся c объектом 65
-
-[History] [ObjId:374] Объект AsteroidGame.Objects.Asteroid Position (553, 559) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:375] Объект AsteroidGame.Objects.Asteroid Position (563, 455) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:376] Объект AsteroidGame.Objects.Asteroid Position (562, 448) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:377] Объект AsteroidGame.Objects.Asteroid Position (555, 439) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:378] Объект AsteroidGame.Objects.Asteroid Position (554, 432) создан.
-
-Астероид 72 столкнулся c объектом 64
-
-[History] [ObjId:379] Объект AsteroidGame.Objects.Asteroid Position (547, 423) создан.
-
-[History] [ObjId:380] Объект AsteroidGame.Objects.Asteroid Position (530, 304) создан.
-
-Астероид 71 столкнулся c объектом 64
-
-[History] [ObjId:381] Объект AsteroidGame.Objects.Asteroid Position (754, 570) создан.
-
-Астероид 71 столкнулся c объектом 64
-
-[History] [ObjId:382] Объект AsteroidGame.Objects.Asteroid Position (753, 553) создан.
 

@@ -27,9 +27,9 @@ namespace AsteroidGame.Objects
 
         override public void MoveInSpace()
         {
-            Position.X += Bullet_Speed;
-            if (Position.X > ObjectSpace.SpaceSize.Width)
-                Position.X = 0;
+            position.X += Bullet_Speed;
+            if (position.X > ObjectSpace.SpaceSize.Width)
+                position.X = 0;
         }
 
         override public void Draw(Graphics g)

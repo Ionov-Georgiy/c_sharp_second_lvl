@@ -47,13 +47,13 @@ namespace AsteroidGame.Scenes
             context = BufferedGraphicsManager.Current;
             Graphics g = SceneForm.CreateGraphics();
             buffer = context.Allocate(g, new Rectangle(0, 0, SceneForm.DisplayRectangle.Width, SceneForm.DisplayRectangle.Height));
-            timer = new Timer { Interval = 100 };
+            timer = new Timer { Interval = 50 };
             timer.Tick += RenderScene;
             SceneForm.FormClosing += OnFormClosing;
             SceneForm.FormClosed += OnFormClosed;
         }
 
-        virtual protected void RenderScene(object sender, EventArgs e)
+        protected virtual void RenderScene(object sender, EventArgs e)
         {
             if (!SceneFormClosed && SceneForm.Visible)
             {
@@ -75,7 +75,7 @@ namespace AsteroidGame.Scenes
             timer.Dispose();
         }
 
-        virtual protected void OnFormClosing(object sender, EventArgs e)
+        protected virtual void OnFormClosing(object sender, EventArgs e)
         {
             SceneFormClosed = true;
             StopRenderingScene(sender, e);
@@ -86,17 +86,17 @@ namespace AsteroidGame.Scenes
             }
         }
 
-        virtual protected void OnFormClosed(object sender, EventArgs e)
+        protected virtual void OnFormClosed(object sender, EventArgs e)
         {
             SceneForm.Dispose();
         }
 
-        virtual protected Space CreateSceneObject()
+        protected virtual Space CreateSceneObject()
         {
             return new Space(GamePreferences.DisplaySettings, 30, 0);
         }
 
-        virtual protected Form CreateSceneForm()
+        protected virtual Form CreateSceneForm()
         {
             Form formResult = new Form();
             this.DisplaySize = GamePreferences.DisplaySettings;
@@ -114,7 +114,7 @@ namespace AsteroidGame.Scenes
             timer.Start();
         }
 
-        virtual public void ShowScene()
+        public virtual void ShowScene()
         {
             StartFormRendering();
             SceneForm.Show();

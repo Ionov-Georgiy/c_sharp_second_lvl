@@ -13,10 +13,13 @@ namespace AsteroidGame.GameLogic
     {
         private static Space space;
         public static bool GameOver;
+        public static int Score => score;
+        private static int score = 0;
 
         public static void Initialize(Space SceneObject)
         {
             space = SceneObject;
+            space.ApplyScoreRecorderOnAsteroids(RecordScore);
             GameOver = false;
         }
 
@@ -33,6 +36,12 @@ namespace AsteroidGame.GameLogic
         internal static void MovePlayerDown()
         {
             space.PlayerSpaceShip.MoveDown();
+        }
+
+        private static void RecordScore(int scorePoints)
+        {
+            if(!GameOver)
+               score += scorePoints;
         }
     }
 }

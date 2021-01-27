@@ -33,6 +33,10 @@ namespace AsteroidGame.Objects
             {
                 ChangeEnergy(-asteroid.Power);
             }
+            else if(obj is EnergyKit enKit)
+            {
+                ChangeEnergy(enKit.Power);
+            }
         }
 
         public void ChangeEnergy(int delta)
@@ -49,14 +53,14 @@ namespace AsteroidGame.Objects
 
         public void MoveUp()
         {
-            if (Position.Y > 0)
-                Position.Y -= Direction.Y;
+            if (position.Y > 0)
+                position.Y -= Direction.Y;
         }
 
         public void MoveDown()
         {
-            if (Position.Y - ObjectSize.Height < ObjectSpace.SpaceSize.Height+ObjectSize.Height)
-                Position.Y += Direction.Y;
+            if (position.Y - ObjectSize.Height < ObjectSpace.SpaceSize.Height+ObjectSize.Height)
+                position.Y += Direction.Y;
         }
 
     }

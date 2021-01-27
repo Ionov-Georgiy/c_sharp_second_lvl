@@ -1,0 +1,9 @@
+C:\Users\g.ionov\source\repos\AsteroidGame\AsteroidGame\bin\Debug\AsteroidGame.exe.config
+C:\Users\g.ionov\source\repos\AsteroidGame\AsteroidGame\bin\Debug\AsteroidGame.exe
+C:\Users\g.ionov\source\repos\AsteroidGame\AsteroidGame\bin\Debug\AsteroidGame.pdb
+C:\Users\g.ionov\source\repos\AsteroidGame\AsteroidGame\obj\Debug\AsteroidGame.csprojAssemblyReference.cache
+C:\Users\g.ionov\source\repos\AsteroidGame\AsteroidGame\obj\Debug\AsteroidGame.Properties.Resources.resources
+C:\Users\g.ionov\source\repos\AsteroidGame\AsteroidGame\obj\Debug\AsteroidGame.csproj.GenerateResource.cache
+C:\Users\g.ionov\source\repos\AsteroidGame\AsteroidGame\obj\Debug\AsteroidGame.csproj.CoreCompileInputs.cache
+C:\Users\g.ionov\source\repos\AsteroidGame\AsteroidGame\obj\Debug\AsteroidGame.exe
+C:\Users\g.ionov\source\repos\AsteroidGame\AsteroidGame\obj\Debug\AsteroidGame.pdb

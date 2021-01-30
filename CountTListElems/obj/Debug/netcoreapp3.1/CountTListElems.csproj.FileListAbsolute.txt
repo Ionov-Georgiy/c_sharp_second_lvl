@@ -1,0 +1,13 @@
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\bin\Debug\netcoreapp3.1\CountTListElems.exe
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\bin\Debug\netcoreapp3.1\CountTListElems.deps.json
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\bin\Debug\netcoreapp3.1\CountTListElems.runtimeconfig.json
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\bin\Debug\netcoreapp3.1\CountTListElems.runtimeconfig.dev.json
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\bin\Debug\netcoreapp3.1\CountTListElems.dll
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\bin\Debug\netcoreapp3.1\CountTListElems.pdb
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\obj\Debug\netcoreapp3.1\CountTListElems.csprojAssemblyReference.cache
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\obj\Debug\netcoreapp3.1\CountTListElems.AssemblyInfoInputs.cache
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\obj\Debug\netcoreapp3.1\CountTListElems.AssemblyInfo.cs
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\obj\Debug\netcoreapp3.1\CountTListElems.csproj.CoreCompileInputs.cache
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\obj\Debug\netcoreapp3.1\CountTListElems.dll
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\obj\Debug\netcoreapp3.1\CountTListElems.pdb
+C:\Users\S14M05\source\repos\AsteroidGame\CountTListElems\obj\Debug\netcoreapp3.1\CountTListElems.genruntimeconfig.cache
